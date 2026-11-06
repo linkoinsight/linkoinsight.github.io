@@ -1,0 +1,36 @@
+{
+  "engine": "bryggan 0.1.0",
+  "company": "CRONUS SE",
+  "createdAt": "2026-11-01T09:14:19.703Z",
+  "periods": {
+    "first": "2025-01",
+    "last": "2025-12",
+    "count": 12
+  },
+  "compared": {
+    "accounts": 169,
+    "ledgerLines": 2815,
+    "rows": 2028,
+    "nonPostingRowsSkipped": 996,
+    "linesOutsidePeriods": 1522
+  },
+  "scope": "Per konto och period: periodens förändring och saldo vid periodens slut. Utan dimensioner, och bara de perioder som står här.",
+  "status": "tied",
+  "totals": {
+    "netChange": {
+      "before": 0,
+      "after": 0
+    },
+    "balanceAtEnd": {
+      "before": 0,
+      "after": 0
+    }
+  },
+  "differences": [],
+  "inputs": {
+    "ledgerSha256": "6aaa9f0c3b01327c8e6480e935fde852057c65eeacf8f1bae336c595b6c6e584",
+    "keySha256": "74e567d33e520f112e49dd438c1aa28204d22e6c79d9eb4c34ec994d5d2f7b2b",
+    "maxEntryNumber": 4337
+  },
+  "seal": "c955a4aaa7bc8f41a7c739d230cfcd5e96c77059a0fd77c7e0b7a636e4ada146"
+}
